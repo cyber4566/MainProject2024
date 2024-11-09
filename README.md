@@ -1,9 +1,9 @@
-#The National Basketball Association (NBA) Prediction:
+The National Basketball Association (NBA) Prediction:
 
 Machine learning has been implemented into various aspects of life and this project aims to demostrate how machine learning techniques can be utilised in the NBA to determine the set of players 
 that perform the best(outliers) and using it to predict the outcome of two teams based on previous history.
 
-##Datasets:
+Datasets:
 • Player regular season stats 
 • Player regular season career totals 
 • Player playoff stats 
@@ -14,6 +14,6 @@ that perform the best(outliers) and using it to predict the outcome of two teams
 • coaches_season.txt - NBA coaching records by season 
 • coaches_career.txt - NBA career coaching records 
 
-#Usage Guide:
+Usage Guide:
 • The outcome model is a python file that predicts the outcome of two teams playing eachother.
 • The next file is a outlier detection that gives an indication of the type of players that are considered as outliers based on their performances.
