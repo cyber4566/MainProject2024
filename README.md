@@ -22,8 +22,8 @@ Our analysis draws from a rich set of data files containing player, team, and co
    - `draft.txt`
 
 4. **Coaching Data**
-   - `coaches_season.txt`: Coaching records by season, providing insight into coaching effectiveness over time.
-   - `coaches_career.txt`: Career records for coaches, including win/loss records and playoff performance.
+   - `coaches_season.txt`
+   - `coaches_career.txt`
 
 ## Usage Guide
 
